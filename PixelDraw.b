@@ -1,9 +1,13 @@
-So it is a pixel editor You can draw on it You should write coordinates like this
-123 23 it is 11 12 13 22 23 and so long rite coordinates write ascending
-example  if you want write 2 you should write this
-23 14 3 2 1234
-pictures size limit is asci code limit(count from 49) on y but x coordinat limit
-is the memory limit(but coordinates more 9 will not count)
+So it is a pixel editor You can draw on it You should write only x coordinates 
+write coordinates ascending
+example  if you want draw 8 you should write this 
+23 14 14 23 14 14 23
+if you want draw 10 you should write this
+3567 2357 1357 357 3567
+if you want draw a simple fish you should write this
+4567 138 129 138 4567
+pictures size limit is asci code limit(count from 49) on y and x coordinat limit
+is 9
 Actually that is all Good luck in drawing
 
 +++[->++++++++++>++++++++++<<]>++.>++.
@@ -13,12 +17,13 @@ Actually that is all Good luck in drawing
 >[[.[>]<.[<]>[-]>]]
 +++[->++++<]>+.[-]<<<<<<<
 +>>>>++>>>>+++>>>>++++>>>>+++++[<<<<]++++++++++++++++<<+>>[->>>>+++>>>>+++>>>>+++>>>>+++>>>>+++[<<<<]>>[>]>]<
-+++++[
-->+++++>.<
-[->>++++++++++++++++++++++++++++++++.>+++++++++++++++[->++++++++++<]>-.[+]<<[-]<<]<<<
-+++[->++++<]>+.[-]>>
->[-]<<[->>>>+<<<<]>>>>
-     ]   
++++++
+[
+ ->+++++>.<
+ [->>++++++++++++++++++++++++++++++++.>+++++++++++++++[->++++++++++<]>-.[+]<<[-]<<]<<<
+ +++[->++++<]>+.[-]>>
+ >[-]<<[->>>>+<<<<]>>>>
+]   
      
 +++[->++++<]>+.[-]
 +++++++++++++++[->++++++++++<]>+++++.[+]
@@ -40,15 +45,15 @@ Actually that is all Good luck in drawing
 >>>
 [
  [
-  [
-   [>]<[-<]<[<]++++++++++++++++++++++++++++++++<++++++++++++++++++++++++++++++++
-   [>]>
+    [
+     [>]<[-<]<[<]++++++++++++++++++++++++++++++++<++++++++++++++++++++++++++++++++
+     [>]>
+    ]
+   <<[<]>>---<<++++++++++++[->>++++++++++<<]
+   >[>]
+   <[->+<]<[[->+<]<]
+   >>[>]>
   ]
-  <<[<]>>---<<++++++++++++[->>++++++++++<<]
-  >[>]
-  <[->+<]<[[->+<]<]
-  >>[>]>
- ]
  <<[->+<]>+.<<[.<]
  >[[-]>]++++++++++++++++++++++++++++++++<<
  +++[->++++<]>+.[-]>[>]>
